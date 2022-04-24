@@ -1,0 +1,5 @@
+.idea
+*.iml
+videostreamer
+/config.yml
+state.json
